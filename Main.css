@@ -10,7 +10,7 @@ form button {
     font-family: "Bungee", cursive;
     font-weight: normal;
 }
-body, input,textarea{
+body, input,textarea{0
     font-family: "Roboto", sans-serif;
 
 }
@@ -58,7 +58,7 @@ section {
     padding: 24px 0;
 }
 section h2 {
-    margin-bottom: 8px;
+    margin-bottom:10px;
     color: #182c61;
 }
 section {
@@ -80,6 +80,7 @@ section p{
     .social-links li{
 display: inline;
 margin-right: 8px;
+
     }
     .social-links li a{
     text-decoration: none;
