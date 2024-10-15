@@ -44,7 +44,7 @@ formEvalido = validaNome(e.target.value);
 if (!formEvalido){
     nomeBeneficiario.classList.add('error');
     //nomeBeneficiario.style.border = '1px solid red';
-    document.querySelector('.error-message').style.display = 'block';
+    document.querySelector('.error-message').style.display = 'block';  
 }
 else{
     nomeBeneficiario.classList.remove('error');
